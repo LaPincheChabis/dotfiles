@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jlouiserre@simplonformations.onmicrosoft.com
+	name = JulieL
